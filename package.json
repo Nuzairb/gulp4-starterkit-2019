@@ -1,11 +1,11 @@
 {
-	"name": "gulp-es6",
+	"name": "Gulp4 Starterkit 2019",
 	"version": "1.1.0",
-	"description": "Gulpfile setup for Javascript ES6 compiling, plus SCSS, images, and fonts handling",
-	"author": "Alessandro Castellani <me@alecaddd.com> (http://alecaddd.com)",
+	"description": "Gulpfile 4 setup for Javascript ES6 compiling, plus SCSS, images, and fonts handling",
+	"author": "Nuzair Ibrahim <nuzairb@gmail.com> (http://nuzair.com)",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Alecaddd/gulp-es6"
+		"url": ""
 	},
 	"keywords": [
 		"gulp",
